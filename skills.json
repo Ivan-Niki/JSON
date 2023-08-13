@@ -1,0 +1,15 @@
+{
+    "Skills-to-be-learned": {
+        "Theory of software testing": ["SDLC", "STLC", "Test design"], 
+        "Test documentation": ["Checklist", "Test Case", "Test Plan", "Bug report"],
+        "Client-server architecture": ["HTTP", "API", "Postman", "DBMS", "SQL"],
+        "Terminal Linux": {
+            "commands": [
+                "mkdir", "pwd", "touch", "cd", "cp", "mv", "rm", "find", "grep","cat", "head", "tail", "vim"
+            ]
+        },
+        "Version Control Systems": ["Git", "GitHub"],
+        "Mobile testing": ["Android guidelines", "IOS guidelines", "Charles", "Fiddler", "Android Studio", "ADB"],
+        "Bug Tracking Systems": ["Jira", "Redmine", "Trello"]
+    }
+}
