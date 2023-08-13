@@ -1,1 +1,15 @@
-
+{
+    "ID": "Identification number assigned to a specific bug",
+    "Summary": "Summarizes the essence of the bug in one sentence. Answers the questions «What?» Where?» Under what circumstances?",
+    "Project": "name of project, program or application in which a bug is identified",
+    "Version": "The exact version of the software containing the bug",
+    "Severity": "The parameter that determines the effect of the bug on the program on a scale from S0 to S4",
+    "Priority": "Parameter that determines the urgency of bug correction on a scale from P1 to P3",
+    "Status": "What stage the bug is: open, in work, fixed, rejected, delayed, etc.",
+    "Author": "Name of employee who found the defect",
+    "Assigned to": "The developer that will fix the bug",
+    "Steps to reproduce": "The exact sequence of actions, which leads to reproduction of a bug",
+    "Actual result": "What happens when you play the steps, how the program works now",
+    "Expected result": "How the program really should work",
+    "Attachments": "Links, screenshots, videos and other materials that will help the developer better understand the nature of the problem"
+}
