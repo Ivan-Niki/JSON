@@ -1,0 +1,13 @@
+{
+    "name": "Ivan",
+    "last_name": "Nikitenko",
+    "surname": "Sergeevich",
+    "age": 35,
+    "pets": {
+        "cats": 3,
+        "dogs": 1,
+        "parrots": 1,
+        "squirrel": 2
+    },
+    "desired salary": 5000
+}
