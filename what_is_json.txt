@@ -219,3 +219,13 @@ const jsonString = JSON.stringify(person); // Метод JSON.stringify прео
 
 console.log(jsonString); // Выводит данные в консоль
 
+
+Десериализация, наоборот, преобразует данные из формата JSON обратно во внутренний формат, с которым программист 
+может работать в своём коде:
+
+const jsonString = '{"name":"John Doe","age":30,"address":{"city":"New York","zip":"10001"}}';
+
+const person = JSON.parse(jsonString); // Преобразуем JSON в объект person
+
+console.log(person); // Выводит данные в консоль
+
